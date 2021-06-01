@@ -1,0 +1,19 @@
+{
+  "name": "express-api-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddieCrochet/express-api-template.git"
+  },
+  "author": "EddieCrochet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EddieCrochet/express-api-template/issues"
+  },
+  "homepage": "https://github.com/EddieCrochet/express-api-template#readme"
+}
